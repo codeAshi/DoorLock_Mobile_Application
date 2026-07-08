@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "102235817610",
+    "firebase_url": "https://doorlock-7e49e-default-rtdb.firebaseio.com",
+    "project_id": "doorlock-7e49e",
+    "storage_bucket": "doorlock-7e49e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102235817610:android:d44d704b5f12c848f24f73",
+        "android_client_info": {
+          "package_name": "com.server.room"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102235817610-5eqrvf7531ljkt8nk9kifn3h6rb4v3fu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa6PKZIUztvbL-sdrQttEy_Z4Lfx5YWgM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102235817610-5eqrvf7531ljkt8nk9kifn3h6rb4v3fu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
