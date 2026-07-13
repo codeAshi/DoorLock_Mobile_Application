@@ -11,6 +11,10 @@ An Android application for controlling a Bluetooth-based door lock (HC-05) for a
 <td align="center">
 <img src="https://github.com/user-attachments/assets/86eb89e7-da72-47f7-b789-ce7e137a7b5a" width="250"/>
 </td>
+<td align="center">
+<img width="720" height="1600" alt="WhatsApp Image 2026-07-13 at 11 21 25 PM (1)" src="https://github.com/user-attachments/assets/a9473335-140f-415a-841b-91d81d07d439" />
+
+</td>
 </tr>
 </table>
 
