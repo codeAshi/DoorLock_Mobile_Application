@@ -3,6 +3,10 @@
 An Android application for controlling a Bluetooth-based door lock (HC-05) for a server room. The app uses Firebase Authentication for user login, Firebase Realtime Database for lock registry and access logs, and Bluetooth (SPP) to send lock/unlock commands directly to the hardware module.
 
 ---
+<img width="720" height="1600" alt="WhatsApp Image 2026-07-13 at 11 21 25 PM" src="https://github.com/user-attachments/assets/78c5c4f6-0388-4c92-87ab-bc2595545f0f" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-07-13 at 11 21 24 PM" src="https://github.com/user-attachments/assets/86eb89e7-da72-47f7-b789-ce7e137a7b5a" />
+
+
 
 ## 📱 Features
 
